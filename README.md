@@ -10,7 +10,7 @@ O objetivo principal deste projeto é aplicar as melhores práticas de desenvolv
 
 As seguintes tecnologias foram utilizadas neste projeto:
 
-*   **Java:** Versão 17+
+*   **Java:** Versão 25.0.2
 *   **Maven:** Gerenciador de dependências e build.
 *   **JUnit 5 (Jupiter API):** Framework para escrita e execução de testes unitários.
 *   **Git & GitHub:** Controle de versão e hospedagem do repositório.
